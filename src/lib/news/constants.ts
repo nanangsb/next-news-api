@@ -1,6 +1,11 @@
 export const newsSources: Source[] = [
   // -------- International Feeds --------
   {
+    code: "ID-MU",
+    name: "Muslim.or.id",
+    url: "https://muslim.or.id/feed",
+  },
+  {
     code: "INTER-YN",
     name: "Yahoo News",
     url: "https://www.yahoo.com/news/rss",
@@ -66,11 +71,6 @@ export const newsSources: Source[] = [
     code: "AU-PN",
     name: "PerthNow",
     url: "https://www.perthnow.com.au/news/feed",
-  },
-  {
-    code: "AU-CT",
-    name: "The Canberra Times - Local News",
-    url: "https://www.canberratimes.com.au/rss.xml",
   },
   {
     code: "AU-BT",
