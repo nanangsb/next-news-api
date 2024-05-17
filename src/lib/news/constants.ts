@@ -5,11 +5,9 @@ export const newsSources: Source[] = [
     name: "muslim",
     url: "https://muslim.or.id/feed",
   },
-  {
     {
     code: "ID-RUM",
     name: "Rumaysho",
     url: "https://rumaysho.com/feed",
-  },
   },
 ];
