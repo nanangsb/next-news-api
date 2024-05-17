@@ -1,6 +1,11 @@
 export const newsSources: Source[] = [
   // -------- International Feeds --------
   {
+    code: "ID-MUS",
+    name: "muslim",
+    url: "https://muslim.or.id/feed",
+  },
+  {
     code: "INTER-YN",
     name: "Yahoo News",
     url: "https://www.yahoo.com/news/rss",
