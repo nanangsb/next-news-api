@@ -20,7 +20,7 @@ export const newsSources: Source[] = [
     url: "https://muslim.or.id/feed",
   },
   {
-    code: "ID-PENGUSAHA-MUSLIM",
+    code: "PENGUSAHA",
     name: "PengusahaMuslim.com",
     url: "https://pengusahamuslim.com/feed",
   },
