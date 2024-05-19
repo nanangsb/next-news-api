@@ -1,31 +1,31 @@
 export const newsSources: Source[] = [ 
   {
-    code: "muslim",
+    code: "id-muslim",
     name: "Muslim.or.id",
     url: "https://muslim.or.id/feed",
   },
   {
-    code: "muslimah",
+    code: "id-muslimah",
     name: "Muslimah.or.id",
     url: "https://muslimah.or.id/feed",
   },
   {
-    code: "almanhaj",
+    code: "id-almanhaj",
     name: "Almanhaj.or.id",
     url: "https://almanhaj.or.id/feed",
   },
   {
-    code: "remaja-islam",
+    code: "id-remaja-islam",
     name: "RemajaIslam.com",
     url: "https://muslim.or.id/feed",
   },
   {
-    code: "pengusaha-muslim",
+    code: "id-pengusaha-muslim",
     name: "PengusahaMuslim.com",
     url: "https://pengusahamuslim.com/feed",
   },
     {
-    code: "rumaysho",
+    code: "id-rumaysho",
     name: "Rumaysho.com",
     url: "https://rumaysho.com/feed",
   },
